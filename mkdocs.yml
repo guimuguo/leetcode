@@ -1,0 +1,5 @@
+site_name: My Leetcode
+nav:
+- homepage: 'index.md'
+- about: 'about.md'
+theme: readthedocs
